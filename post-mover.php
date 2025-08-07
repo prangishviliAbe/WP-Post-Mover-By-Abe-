@@ -212,7 +212,7 @@ function post_mover_page() {
                             selectAll.checked = allChecked;
                         }
                     });
-                });
+                }); 
             }
         });
     </script>
